@@ -1,5 +1,5 @@
 # pipex_bonus
-Libft (42 course) 2021 - 2022
+Pipex (42 course) 2021 - 2022
 
 Status: Finished
 
